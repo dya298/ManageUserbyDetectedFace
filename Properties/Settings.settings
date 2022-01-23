@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MultiFaceRec.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="QuanLyRaVaoConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-920FIQO\SQLEXPRESS01;Initial Catalog=QuanLyRaVao;User ID=sa;Password=sa2012&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-920FIQO\SQLEXPRESS01;Initial Catalog=QuanLyRaVao;User ID=sa;Password=sa2012</Value>
+    </Setting>
+    <Setting Name="QuanLyRaVaoNhom2ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=congtackhac.serveftp.com;Initial Catalog=QuanLyRaVaoNhom2;User ID=sa;Password=123456a@&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=congtackhac.serveftp.com;Initial Catalog=QuanLyRaVaoNhom2;User ID=sa;Password=123456a@</Value>
+    </Setting>
+    <Setting Name="QuanLyRaVao_Nhom2ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=congtackhac.serveftp.com;Initial Catalog=QuanLyRaVao_Nhom2;User ID=sa;Password=123456a@&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=congtackhac.serveftp.com;Initial Catalog=QuanLyRaVao_Nhom2;User ID=sa;Password=123456a@</Value>
+    </Setting>
+    <Setting Name="QuanLyRaVao_Nhom2ConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-920FIQO\SQLEXPRESS01;Initial Catalog=QuanLyRaVao_Nhom2;User ID=sa;Password=sa2012&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-920FIQO\SQLEXPRESS01;Initial Catalog=QuanLyRaVao_Nhom2;User ID=sa;Password=sa2012</Value>
+    </Setting>
+    <Setting Name="QLyChungCuConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=117.2.159.103,14333;Initial Catalog=QLyChungCu;User ID=sa;Password=sa2012&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=117.2.159.103,14333;Initial Catalog=QLyChungCu;User ID=sa;Password=sa2012</Value>
+    </Setting>
+    <Setting Name="QLyChungCuConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=117.2.159.103,14333;Initial Catalog=QLyChungCu;Persist Security Info=True;User ID=sa;Password=sa2012&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=117.2.159.103,14333;Initial Catalog=QLyChungCu;Persist Security Info=True;User ID=sa;Password=sa2012</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
